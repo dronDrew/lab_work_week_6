@@ -13,7 +13,9 @@ car::car(float Average_speed, int fuel_tank, int passenger_place, float carrying
 	this->carrying = carrying;
 	this->average_consumption = average_consumption;
 }
-float car::time_of_trip_pass(int distance, int passenger){}
+float car::time_of_trip_pass(int distance ){
+
+}
 float car::cost_of_trip_pass(int distance, int passenger){}
-float car::time_of_trip_cargo(int distance, int passenger){}
-float car::cost_of_trip_pass_cargo(int distance, int passenger){}
+float car::time_of_trip_cargo(int distance, float cargo_weight){}
+float car::cost_of_trip_pass_cargo(int distance, float cargo_weight){}
