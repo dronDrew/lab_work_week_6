@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-	Squer a(10, 15, 5);
-	a.Get_Squer_line();
+	circle_in_squer a(5, 7, 7, 13, 7, 6);
+	a.Get_info();
 	return 0;
 }
