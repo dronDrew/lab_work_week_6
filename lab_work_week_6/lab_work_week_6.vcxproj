@@ -138,16 +138,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="auto_inh.h" />
     <ClInclude Include="circle_in_squer.h" />
     <ClInclude Include="dependies.h" />
+    <ClInclude Include="Employer.h" />
+    <ClInclude Include="Home_pet.h" />
     <ClInclude Include="Passport.h" />
+    <ClInclude Include="Stack_inheritance.h" />
     <ClInclude Include="student.h" />
     <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="auto_inh.cpp" />
     <ClCompile Include="circle_in_squer.cpp" />
+    <ClCompile Include="Employer.cpp" />
+    <ClCompile Include="Home_pet.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Passport.cpp" />
+    <ClCompile Include="Stack_inheritance.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>

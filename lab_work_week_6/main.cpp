@@ -3,11 +3,13 @@
 #include "Passport.h"
 #include"Vehicle.h"
 #include"circle_in_squer.h"
+#include "auto_inh.h"
+#include"Stack_inheritance.h"
+#include "Home_pet.h"
 
 using namespace std;
 
 int main() {
-	circle_in_squer a(5, 7, 7, 13, 7, 6);
-	a.Get_info();
+	
 	return 0;
 }
