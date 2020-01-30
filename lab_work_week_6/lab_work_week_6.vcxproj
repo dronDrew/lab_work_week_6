@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="are_figure.h" />
     <ClInclude Include="auto_inh.h" />
     <ClInclude Include="circle_in_squer.h" />
     <ClInclude Include="dependies.h" />
@@ -149,6 +150,7 @@
     <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="are_figure.cpp" />
     <ClCompile Include="auto_inh.cpp" />
     <ClCompile Include="circle_in_squer.cpp" />
     <ClCompile Include="Employer.cpp" />
